@@ -6,6 +6,7 @@ import boardgame.Position;
 import chess.piece.King;
 import chess.piece.Pawn;
 import chess.piece.Rook;
+import chess.piece.Bishop;
 
 import java.util.ArrayList;
 import java.util.List;
