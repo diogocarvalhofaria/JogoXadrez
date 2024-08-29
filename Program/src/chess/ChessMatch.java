@@ -7,6 +7,8 @@ import chess.piece.King;
 import chess.piece.Pawn;
 import chess.piece.Rook;
 import chess.piece.Bishop;
+import chess.piece.Knight;
+import chess.piece.Queen;
 
 import java.util.ArrayList;
 import java.util.List;
