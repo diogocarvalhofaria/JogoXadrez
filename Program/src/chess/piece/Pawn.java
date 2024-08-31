@@ -82,6 +82,7 @@ public class Pawn extends ChessPiece {
                     if (getBoard().positionExist(right) && !getBoard().thereIsAPiece(right) && getBoard().piece(right) == chessMatch.getEnPassantVulnerable()) {
                         mat[right.getRow() + 1][right.getColumn()] = true;
                     }
+                }
             }
         }
 
